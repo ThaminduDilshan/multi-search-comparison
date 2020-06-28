@@ -1,0 +1,6 @@
+Binary Search	|	Length A: 10000	|	Search Count: 1000	|	Avg Elapsed Time: 6.7782 us
+Random Search	|	Length A: 10000	|	Search Count: 1000	|	Avg Elapsed Time: 27.7507 us
+Binary Search	|	Length A: 100000	|	Search Count: 1000	|	Avg Elapsed Time: 9.1152 us
+Random Search	|	Length A: 100000	|	Search Count: 1000	|	Avg Elapsed Time: 37.7502 us
+Binary Search	|	Length A: 1000000	|	Search Count: 1000	|	Avg Elapsed Time: 11.8768 us
+Random Search	|	Length A: 1000000	|	Search Count: 1000	|	Avg Elapsed Time: 47.1301 us
