@@ -7,7 +7,7 @@ Implement binary search and randomized search algorithms, and measure the averag
 * Array should be sorted.
 * Each search should be for a different element within the 1000 searches.
 * In the search list, 200 elements should not present in the original array. Rest 800 elements should spread roughly evenly in the original array.
-* Both the binary search and randomized search algorithms are recursive.
+* Both the binary search and randomized search algorithms should be recursive.
 
 ### How to Run
 Execute the command `python search_algo.py`
