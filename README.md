@@ -13,6 +13,6 @@ Implement binary search and randomized search algorithms, and measure the averag
 Execute the command `python search_algo.py`
 
 ### Output
-* `results.txt`: Average elapsed time for each test case
+* `results.txt`: Average elapsed time for each test case (All terminal logs will be redirected to this file)
 * `plot_for_n_<num>.png` images: Distribution of the number list and the search list elements
 > Plots are generated to verify the even distribution of the search elements within the original array
